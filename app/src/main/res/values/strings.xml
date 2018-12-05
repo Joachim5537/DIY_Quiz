@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DIY Quiz</string>
+    <string name="question_text"> Question</string>
+    <string name="true_button"> True</string>
+    <string name="false_button"> False</string>
+    <string name="next_button"> Next</string>
+    <string name="correct_toast"> Correct!</string>
+    <string name="incorrect_toast"> Incorrect!</string>
+
+    <!--add question-->
+    <string name="add_question"> Add Question</string>
+    <string name="view_all_question">View All Question</string>
+    <string name="input_add_question_placeholder"> Type your question here.</string>
+
+    <string name="success_add">Successfully added!</string>;
+    <string name="failed_add">Failed to add!</string>;
+    <string name="database_empty">Database is empty!</string>;
+    <string name="enter_password">Enter Your Password</string>;
+    <string name="password">Enter the password to manage questions:</string>
+    <string name="submit_password">Submit</string>
+    <string name="delete_button">Delete Question</string>
+    <string name="delete_edit_button">Delete/Edit Question</string>
+    <string name="password_correct">Password Correct!</string>
+    <string name="password_incorrect">Invalid Password!</string>
+    <string name="manage_question">Manage Question</string>
+    <string name="edit_button">Edit Question</string>
+    <string name="success_delete">Successfully deleted!</string>
+    <string name="success_edit">Successfully edited!</string>
+</resources>

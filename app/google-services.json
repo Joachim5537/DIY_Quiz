@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "187681157710",
+    "firebase_url": "https://geoquiz-e9db6.firebaseio.com",
+    "project_id": "geoquiz-e9db6",
+    "storage_bucket": "geoquiz-e9db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187681157710:android:e50f1be71737afc2",
+        "android_client_info": {
+          "package_name": "com.example.joachim.geoiquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187681157710-ucd86le7pbh35tbdsrrtvtktk9p8h2pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joachim.geoiquiz",
+            "certificate_hash": "6027a0cbef9aa3a920a5f745bece06d930f0379a"
+          }
+        },
+        {
+          "client_id": "187681157710-te56197k81t30pjsi2m8g08m7hpv9kjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHDQjfUcLGMARanqE6LFYieyFd4MLLj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187681157710-te56197k81t30pjsi2m8g08m7hpv9kjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187681157710:android:710c34a982aa6ee5",
+        "android_client_info": {
+          "package_name": "com.example.joachim.geoquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187681157710-te56197k81t30pjsi2m8g08m7hpv9kjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHDQjfUcLGMARanqE6LFYieyFd4MLLj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
